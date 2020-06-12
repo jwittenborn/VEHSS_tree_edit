@@ -1,68 +1,1886 @@
 {
-    "name": "VEHSS",
-    "children": [{
-        "name": "Claims",
-        "children": [{
-            "name": "Conditions",
-            "children": [{
-                "name": "VEHSS tree edit"
-            }, {
-                "name": "DR"
-            }, {
-                "name": "GL"
-            }, {
-                "name": "Cat"
-            }
+    "name": "root",
+    "children": [
+     {
+      "name": "VEHSS Indicators",
+      "children": [
+       {
+        "name": "Claims & EHR",
+        "children": [
+         {
+          "name": "Eye Health Conditions",
+          "children": [
+           {
+            "name": "Age Related Macular Degeneration",
+            "children": [
+             {
+              "name": "Annual prevalence of treated age related macular degeneration",
+              "children": [
+               {
+                "name": "All Age-related macular degeneration (AMD)",
+                "prevalence": "9.11",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Choroidal neovascularization",
+                "prevalence": "0.93",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Dry-form age-related macular degeneration",
+                "prevalence": "6.2",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Early stage age-related macular degeneration",
+                "prevalence": "2.2",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Geographic atrophy",
+                "prevalence": "0.28",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Unspecified-age related macular degeneration",
+                "prevalence": "1.09",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Wet-form age-related macular degeneration",
+                "prevalence": "1.83",
+                "sample_size": "30423400"
+               }
+              ]
+             }
             ]
-        },{
-
-
-            "name": "Utilization",
-            "children": [{
-                "name": "laser"
-            }, {
-                "name": "injection"
-            }, {
-                "name": "surgery"
-            }, {
-                "name": "exam"
-            }
-            ]            
-        }
+           },
+           {
+            "name": "Cancer and Neoplasms of the Eye",
+            "children": [
+             {
+              "name": "Annual prevalence of treated cancer and neoplasms of the eye",
+              "children": [
+               {
+                "name": "All Cancer and neoplasms of the eye diseases",
+                "prevalence": "1.35",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Benign neoplasm",
+                "prevalence": "1.29",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Malignant neoplasm",
+                "prevalence": "0.07",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Cataracts",
+            "children": [
+             {
+              "name": "Annual prevalence of treated cataracts",
+              "children": [
+               {
+                "name": "Age-related cataract",
+                "prevalence": "21.59",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "All Cataracts",
+                "prevalence": "32.95",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Aphakia and disorders of lens",
+                "prevalence": "0.3",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Congenital Cataract",
+                "prevalence": "0.07",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other or unspecified cataract",
+                "prevalence": "2.16",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Posterior capsular opacity",
+                "prevalence": "4.93",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Pseudophakia",
+                "prevalence": "10.82",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Cornea Disorders",
+            "children": [
+             {
+              "name": "Annual prevalence of treated cornea disorders",
+              "children": [
+               {
+                "name": "All Cornea disorders",
+                "prevalence": "2.88",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Endothelial dystrophy (Fuchs)",
+                "prevalence": "0.92",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Keratoconus",
+                "prevalence": "0.1",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other corneal disorders",
+                "prevalence": "2.03",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Diabetic Eye Diseases",
+            "children": [
+             {
+              "name": "Annual prevalence of treated diabetic eye diseases",
+              "children": [
+               {
+                "name": "All Diabetic eye diseases",
+                "prevalence": "3.04",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Diabetic macular edema",
+                "prevalence": "0.84",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Early/mild diabetic retinopathy",
+                "prevalence": "1.8",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Moderate/Severe non-proliferative diabetic retinopathy",
+                "prevalence": "0.38",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other diabetes related eye disorders",
+                "prevalence": "1.06",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Proliferative diabetic retinopathy",
+                "prevalence": "0.46",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Diagnosed Blindness and Low Vision",
+            "children": [
+             {
+              "name": "Annual prevalence of treated blindness and low vision",
+              "children": [
+               {
+                "name": "All Blindness and low vision",
+                "prevalence": "0.81",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "\"Blindness one eye",
+                "children": [
+                 {
+                  "name": "Claims",
+                  "prevalence": "0.06",
+                  "sample_size": "30423400"
+                 }
+                ]
+               },
+               {
+                "name": "\"Blindness",
+                "children": [
+                 {
+                  "name": " including legal blindness\"",
+                  "children": [
+                   {
+                    "name": "Claims",
+                    "prevalence": "0.23",
+                    "sample_size": "30423400"
+                   }
+                  ]
+                 }
+                ]
+               },
+               {
+                "name": "\"Low vision or blindness",
+                "children": [
+                 {
+                  "name": "Claims",
+                  "prevalence": "0.16",
+                  "sample_size": "30423400"
+                 }
+                ]
+               },
+               {
+                "name": "\"Low vision",
+                "children": [
+                 {
+                  "name": "Claims",
+                  "prevalence": "0.08",
+                  "sample_size": "30423400"
+                 }
+                ]
+               },
+               {
+                "name": "\"Unqualified impairment in one eye",
+                "children": [
+                 {
+                  "name": "Claims",
+                  "prevalence": "0.31",
+                  "sample_size": "30423400"
+                 }
+                ]
+               },
+               {
+                "name": "\"Unqualified impairment",
+                "children": [
+                 {
+                  "name": "Claims",
+                  "prevalence": "0.03",
+                  "sample_size": "30423400"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Disorders of Optic Nerve and Visual Pathways",
+            "children": [
+             {
+              "name": "Annual prevalence of treated disorders of optic nerve and visual pathways",
+              "children": [
+               {
+                "name": "All Disorders of optic nerve and visual pathways",
+                "prevalence": "1.34",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Disorders of the visual pathway and visual cortex",
+                "prevalence": "0.01",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Optic nerve disorders",
+                "prevalence": "1.33",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Disorders of Refraction and Accommodation",
+            "children": [
+             {
+              "name": "Annual prevalence of treated disorders of refraction and accommodation",
+              "children": [
+               {
+                "name": "All Refraction and accommodation disorders",
+                "prevalence": "9.96",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Astigmatism",
+                "prevalence": "4",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Hypermetropia",
+                "prevalence": "2.9",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Myopia",
+                "prevalence": "2.4",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other refraction and accommodation disorders",
+                "prevalence": "0.79",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Presbyopia",
+                "prevalence": "6.14",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Glaucoma",
+            "children": [
+             {
+              "name": "Annual prevalence of treated glaucoma",
+              "children": [
+               {
+                "name": "All Glaucoma",
+                "prevalence": "13.02",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Congenital glaucoma",
+                "prevalence": "0.01",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Glaucoma suspect",
+                "prevalence": "6.78",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Low-tension glaucoma",
+                "prevalence": "0.44",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Open-angle glaucoma",
+                "prevalence": "5.86",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other/unspecified glaucoma",
+                "prevalence": "1",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Primary angle-closure glaucoma",
+                "prevalence": "1.04",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Secondary glaucoma",
+                "prevalence": "0.2",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Severe stage",
+                "prevalence": "1.47",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Infectious and Inflammatory Diseases",
+            "children": [
+             {
+              "name": "Annual prevalence of treated infectious and inflammatory diseases",
+              "children": [
+               {
+                "name": "All Infectious and inflammatory diseases",
+                "prevalence": "10.98",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Conjunctivitis",
+                "prevalence": "5.25",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Endophthalmitis",
+                "prevalence": "0.06",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Eyelid infection and inflammation",
+                "prevalence": "3.87",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Infectious diseases",
+                "prevalence": "0.45",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Keratitis",
+                "prevalence": "2.67",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Lacrimal and orbit inflammation",
+                "prevalence": "0.12",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other/unspecified infectious and inflammatory diseases",
+                "prevalence": "0.53",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "\"Injury",
+            "children": [
+             {
+              "name": " Burns and Surgical Complications of the Eye\"",
+              "children": [
+               {
+                "name": "\"Annual prevalence of treated injury",
+                "children": [
+                 {
+                  "name": "\"All Injury",
+                  "children": [
+                   {
+                    "name": " burns and surgical complications of the eye\"",
+                    "children": [
+                     {
+                      "name": "Claims",
+                      "prevalence": "1.64",
+                      "sample_size": "30423400"
+                     }
+                    ]
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Ocular burns",
+                  "children": [
+                   {
+                    "name": "Claims",
+                    "prevalence": "0.01",
+                    "sample_size": "30423400"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Ocular injury",
+                  "children": [
+                   {
+                    "name": "Claims",
+                    "prevalence": "1.3",
+                    "sample_size": "30423400"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Surgical complication of the eye",
+                  "children": [
+                   {
+                    "name": "Claims",
+                    "prevalence": "0.37",
+                    "sample_size": "30423400"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Orbital and External Disease",
+            "children": [
+             {
+              "name": "Annual prevalence of treated orbital and external disease",
+              "children": [
+               {
+                "name": "All Orbital and external disease",
+                "prevalence": "12.58",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Congenital anomalies",
+                "prevalence": "0.11",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Disorders of the globe",
+                "prevalence": "0.09",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Dry eye syndrome",
+                "prevalence": "9.03",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Eyelid disorders",
+                "prevalence": "4.19",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Lacrimal diseases",
+                "prevalence": "0.52",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other/unspecified orbital and external disease",
+                "prevalence": "0.12",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Other Eye Disorders",
+            "children": [
+             {
+              "name": "Annual prevalence of treated other eye disorders",
+              "children": [
+               {
+                "name": "Other eye disorders",
+                "prevalence": "11.12",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Other Retinal Disorders",
+            "children": [
+             {
+              "name": "Annual prevalence of treated other retinal disorders",
+              "children": [
+               {
+                "name": "All Other retinal disorders",
+                "prevalence": "8.76",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Branch retinal artery occlusion",
+                "prevalence": "0.14",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Branch retinal vein occlusion",
+                "prevalence": "0.48",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Central retinal arterial occlusion",
+                "prevalence": "0.08",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Central retinal vein occlusion",
+                "prevalence": "0.3",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Hereditary chorioretinal dystrophy",
+                "prevalence": "0.29",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Macular edema (Cystoid or non-diabetic)",
+                "prevalence": "0.49",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Myopic degeneration",
+                "prevalence": "0.17",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Non-Occlusive retinal vascular disease",
+                "prevalence": "1.96",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Occlusive retinal vascular disease",
+                "prevalence": "0.06",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other/unspecified other retinal disorders",
+                "prevalence": "6.38",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Other/unspecified visual disturbances",
+                "prevalence": "2.87",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Retinopathy of prematurity",
+                "prevalence": "0.01",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Other Visual Disturbances",
+            "children": [
+             {
+              "name": "Annual prevalence of treated other visual disturbances",
+              "children": [
+               {
+                "name": "All Other visual disturbances",
+                "prevalence": "3.52",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Color blindness",
+                "prevalence": "0.02",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Night blindness",
+                "prevalence": "0.04",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Visual field defect",
+                "prevalence": "0.83",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Retinal Detachment and Defects",
+            "children": [
+             {
+              "name": "Annual prevalence of treated retinal detachment and defects",
+              "children": [
+               {
+                "name": "Retinal detachment and defects",
+                "prevalence": "0.95",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Strabismus and Amblyopia",
+            "children": [
+             {
+              "name": "Annual prevalence of treated strabismus and amblyopia",
+              "children": [
+               {
+                "name": "All Strabismus and amblyopia",
+                "prevalence": "1.25",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Amblyopia",
+                "prevalence": "0.4",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Strabismus",
+                "prevalence": "0.9",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "name": "Service Utilization",
+          "children": [
+           {
+            "name": "Eye Exams",
+            "children": [
+             {
+              "name": "Proportion of patients who had an eye exam in selected year",
+              "children": [
+               {
+                "name": "By an ophthalmologist or other physician",
+                "prevalence": "30.24",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "By an optometrist or optician",
+                "prevalence": "19.25",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "By any provider type",
+                "prevalence": "45",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Imaging or diagnostic test",
+            "children": [
+             {
+              "name": "Percentage of people who had an eye or vision diagnostic test claim",
+              "children": [
+               {
+                "name": "Any diagnostic eye test",
+                "prevalence": "19.73",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Flourescein angiography",
+                "prevalence": "1.37",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Gonioscopy",
+                "prevalence": "2.38",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Optical coherence tomography",
+                "prevalence": "14.88",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Stereo fundus exam",
+                "prevalence": "8.19",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Tonometry\u00a0test",
+                "prevalence": "0.07",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Visual field testing",
+                "prevalence": "0",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Screening",
+            "children": [
+             {
+              "name": "Percentage of people who had a vision or eye disease screening claim",
+              "children": [
+               {
+                "name": "Any vision screening",
+                "prevalence": "0.17",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Diabetic Retinopathy Telemedicine Screening",
+                "prevalence": "0",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Glaucoma screening",
+                "prevalence": "0.03",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Vision screening",
+                "prevalence": "0.14",
+                "sample_size": "30423400"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Vision Correction",
+            "children": [
+             {
+              "name": "Percentage of people who had a vision correction visit or supplies claim",
+              "children": [
+               {
+                "name": "Any vision correction",
+                "prevalence": "0.21",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Contact lens or fitting",
+                "prevalence": "0.19",
+                "sample_size": "30423400"
+               },
+               {
+                "name": "Eyeglasses",
+                "prevalence": "0.02",
+                "sample_size": "30423400"
+               }
+              ]
+             },
+             {
+              "name": "Percentage of people who wear glasses (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "61",
+                "sample_size": "33419"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
         ]
-    },{
-
+       },
+       {
+        "name": "EHR",
+        "children": [
+         {
+          "name": "Visual Function",
+          "children": [
+           {
+            "name": "Measured Visual Acuity",
+            "children": [
+             {
+              "name": "Best-corrected visual acuity",
+              "children": [
+               {
+                "name": "Any vision loss",
+                "prevalence": "42.75",
+                "sample_size": ""
+               },
+               {
+                "name": "Missing acuity",
+                "prevalence": "14",
+                "sample_size": ""
+               },
+               {
+                "name": "Monocular vision loss",
+                "prevalence": "2.03",
+                "sample_size": ""
+               },
+               {
+                "name": "Normal vision",
+                "prevalence": "45.28",
+                "sample_size": ""
+               },
+               {
+                "name": "US-defined blindness",
+                "prevalence": "5.47",
+                "sample_size": ""
+               },
+               {
+                "name": "Visual impairment",
+                "prevalence": "35.25",
+                "sample_size": ""
+               },
+               {
+                "name": "WHO-defined blindness",
+                "prevalence": "2.25",
+                "sample_size": ""
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
         "name": "Surveys",
-        "children": [{
-            "name": "Conditions",
-            "children": [{
-                "name": "AMD"
-            }, {
-                "name": "DR"
-            }, {
-                "name": "GL"
-            }, {
-                "name": "Cat"
-            }
+        "children": [
+         {
+          "name": "Eye Health Conditions",
+          "children": [
+           {
+            "name": "Exam-based age related macular degeneration",
+            "children": [
+             {
+              "name": "\"Percentage of people with age-related macular degeneration",
+              "children": [
+               {
+                "name": " based on examination (NHANES)\"",
+                "children": [
+                 {
+                  "name": "NHANES",
+                  "prevalence": "6.6",
+                  "sample_size": "5604"
+                 }
+                ]
+               }
+              ]
+             }
             ]
-        },{
-
-
-            "name": "Utilization",
-            "children": [{
-                "name": "laser"
-            }, {
-                "name": "injection"
-            }, {
-                "name": "surgery"
-            }, {
-                "name": "exam"
-            }
-            ]            
-        }
+           },
+           {
+            "name": "Exam-based diabetic retinopathy",
+            "children": [
+             {
+              "name": "\"Percentage of people with diabetic retinopathy",
+              "children": [
+               {
+                "name": " based on examination (NHANES)\"",
+                "children": [
+                 {
+                  "name": "NHANES",
+                  "prevalence": "9.7",
+                  "sample_size": "5704"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Exam-based glaucoma",
+            "children": [
+             {
+              "name": "\"Percentage of people with glaucoma",
+              "children": [
+               {
+                "name": " based on examination (NHANES)\"",
+                "children": [
+                 {
+                  "name": "NHANES",
+                  "prevalence": "2.1",
+                  "sample_size": "5590"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Self-Report Age Related Macular Degeneration",
+            "children": [
+             {
+              "name": "Percentage of adults ever told by a doctor or other health professional they had macular degeneration (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "1.8",
+                "sample_size": "59654"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Self-report age related macular degeneration",
+            "children": [
+             {
+              "name": "Percentage of people who were ever told by an eye doctor they have age-related macular degeneration (NHANES)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "3.4",
+                "sample_size": "6734"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Self-Report Cataract",
+            "children": [
+             {
+              "name": "Percentage of adults ever told by a doctor or other health professional they had cataracts (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "13.52",
+                "sample_size": "59702"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Self-Report Diabetic Retinopathy",
+            "children": [
+             {
+              "name": "Percentage of adults ever told by a doctor or other health professional they had diabetic retinopathy (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "0.88",
+                "sample_size": "59680"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Self-report diabetic retinopathy",
+            "children": [
+             {
+              "name": "Percentage of people who were ever told by an eye doctor their diabetes affected their eyes (NHANES)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "22.9",
+                "sample_size": "1210"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Self-Report Glaucoma",
+            "children": [
+             {
+              "name": "Percentage of adults ever told by a doctor or other health professional they had glaucoma (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "2.62",
+                "sample_size": "59683"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Self-report glaucoma",
+            "children": [
+             {
+              "name": "Percentage of people ever told by an eye doctor they have glaucoma (NHANES)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "5.1",
+                "sample_size": "6760"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "name": "Service Utilization",
+          "children": [
+           {
+            "name": "Cataract Surgery",
+            "children": [
+             {
+              "name": "Percentage of people who had a cataract operation (NHANES)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "7",
+                "sample_size": "10472"
+               }
+              ]
+             },
+             {
+              "name": "Percentage of people with diagnosed cataract who had a treatment claim (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "7.95",
+                "sample_size": "59698"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Eye Health Provider Interaction",
+            "children": [
+             {
+              "name": "\"Percentage of adults who in the past 12 months have seen or talked to an optometrist",
+              "children": [
+               {
+                "name": " optician",
+                "children": [
+                 {
+                  "name": "Yes",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "42.43",
+                    "sample_size": "59093"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Eye Protection",
+            "children": [
+             {
+              "name": "\"Percentage of adults who participate in sports",
+              "children": [
+               {
+                "name": " hobbies",
+                "children": [
+                 {
+                  "name": "Yes",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "24.73",
+                    "sample_size": "59750"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "name": "Proportion of adults who participate in activities which may cause injury that wear eye protection (NHIS)",
+              "children": [
+               {
+                "name": "Always",
+                "prevalence": "30.11",
+                "sample_size": "14842"
+               },
+               {
+                "name": "Don't Know",
+                "prevalence": "0.02",
+                "sample_size": "14842"
+               },
+               {
+                "name": "Most of the time",
+                "prevalence": "15.28",
+                "sample_size": "14842"
+               },
+               {
+                "name": "None of the time",
+                "prevalence": "35.22",
+                "sample_size": "14842"
+               },
+               {
+                "name": "Refused",
+                "prevalence": "0",
+                "sample_size": "14842"
+               },
+               {
+                "name": "Some of the time",
+                "prevalence": "19.37",
+                "sample_size": "14842"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Need",
+            "children": [
+             {
+              "name": "Percentage of children who needed vision care in the past 12 months but did not receive it (NSCH)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "24.46",
+                "sample_size": "1639"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Screening",
+            "children": [
+             {
+              "name": "\"Percentage of children who have ever had their vision tested with pictures",
+              "children": [
+               {
+                "name": " shapes",
+                "children": [
+                 {
+                  "name": "Yes",
+                  "children": [
+                   {
+                    "name": "NSCH",
+                    "prevalence": "69.69",
+                    "sample_size": "71586"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Vision Correction",
+            "children": [
+             {
+              "name": "Percentage of adults who currently wear eyeglasses or contact lenses (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "63.98",
+                "sample_size": "59496"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "name": "Vision Exam Measures",
+          "children": [
+           {
+            "name": "Visual acuity",
+            "children": [
+             {
+              "name": "Best-corrected visual acuity (NHANES)",
+              "children": [
+               {
+                "name": "Any vision loss",
+                "prevalence": "1.7",
+                "sample_size": "32034"
+               },
+               {
+                "name": "Monocular vision loss",
+                "prevalence": "5.5",
+                "sample_size": "35090"
+               },
+               {
+                "name": "Normal vision",
+                "prevalence": "98.3",
+                "sample_size": "32034"
+               },
+               {
+                "name": "US-defined blindness",
+                "prevalence": "0.3",
+                "sample_size": "32034"
+               },
+               {
+                "name": "Visual impairment",
+                "prevalence": "1.5",
+                "sample_size": "32034"
+               }
+              ]
+             },
+             {
+              "name": "Presenting visual acuity (NHANES)",
+              "children": [
+               {
+                "name": "Presenting with any vision loss",
+                "prevalence": "9.8",
+                "sample_size": "32642"
+               },
+               {
+                "name": "Presenting with monocular vision loss",
+                "prevalence": "13.9",
+                "sample_size": "35090"
+               },
+               {
+                "name": "Presenting with normal vision",
+                "prevalence": "90.2",
+                "sample_size": "32642"
+               },
+               {
+                "name": "Presenting with US-defined blindness",
+                "prevalence": "1",
+                "sample_size": "32642"
+               },
+               {
+                "name": "Presenting with visual impairment",
+                "prevalence": "8.8",
+                "sample_size": "32642"
+               }
+              ]
+             },
+             {
+              "name": "Uncorrected refractive error (URE) (NHANES)",
+              "children": [
+               {
+                "name": "Uncorrected refractive error (URE)",
+                "prevalence": "5.3",
+                "sample_size": "31350"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "name": "Visual Function",
+          "children": [
+           {
+            "name": "Blind or Difficulty Seeing",
+            "children": [
+             {
+              "name": "Percentage of adults who are blind or unable to see at all (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "0.39",
+                "sample_size": "59751"
+               }
+              ]
+             },
+             {
+              "name": "Percentage of adults who have trouble seeing even when wearing glasses or contact lenses (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "9.2",
+                "sample_size": "70332"
+               }
+              ]
+             },
+             {
+              "name": "Percentage of children who are blind or have problems with seeing even when wearing glasses (NSCH)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "1.57",
+                "sample_size": "71476"
+               }
+              ]
+             },
+             {
+              "name": "Percentage of people who are blind or have serious difficulty seeing even when wearing glasses (ACS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "2.45",
+                "sample_size": "3190040"
+               }
+              ]
+             },
+             {
+              "name": "Percentage of people who are blind or have serious difficulty seeing even when wearing glasses (BRFSS)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "5.27",
+                "sample_size": "13191000"
+               }
+              ]
+             },
+             {
+              "name": "\"Percentage of people who have (no",
+              "children": [
+               {
+                "name": " some",
+                "children": [
+                 {
+                  "name": "A lot of difficulty",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "1.5",
+                    "sample_size": "35242"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Cannot do at all/Unable to do",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "0.1",
+                    "sample_size": "35242"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Don't Know",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "0.1",
+                    "sample_size": "35242"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "No difficulty",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "80",
+                    "sample_size": "35242"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Not ascertained",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "5.3",
+                    "sample_size": "35242"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Refused",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "0.3",
+                    "sample_size": "35242"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Some difficulty",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "12.8",
+                    "sample_size": "35242"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Blind or difficulty seeing",
+            "children": [
+             {
+              "name": "Percentage of people blind in both eyes (NHANES)",
+              "children": [
+               {
+                "name": "Yes",
+                "prevalence": "",
+                "sample_size": "13897"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Difficulty Finding Objects",
+            "children": [
+             {
+              "name": "Percentage of adults who even when wearing glasses or contact lenses find it difficult to find something on a crowded shelf (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Can't do at all because of eyesight",
+                "prevalence": "0.14",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Do not do this activity for other reasons",
+                "prevalence": "0.48",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Don't Know",
+                "prevalence": "0.03",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Not at all difficult",
+                "prevalence": "94.38",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Only a little difficult",
+                "prevalence": "2.83",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Refused",
+                "prevalence": "0.03",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Somewhat difficult",
+                "prevalence": "1.53",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Very difficult",
+                "prevalence": "0.58",
+                "sample_size": "59505"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Far-Distance Visual Function",
+            "children": [
+             {
+              "name": "\"Percentage of adults who even when wearing glasses or contact lenses find it (not at all",
+              "children": [
+               {
+                "name": " only a little",
+                "children": [
+                 {
+                  "name": " or very) difficult to drive during daytime in familiar places (NHIS Adult Module) (NHIS)\"",
+                  "children": [
+                   {
+                    "name": "Can't do at all because of eyesight",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "0.38",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   },
+                   {
+                    "name": "Do not do this activity for other reasons",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "5.7",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   },
+                   {
+                    "name": "Don't Know",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "0.02",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   },
+                   {
+                    "name": "Not at all difficult",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "91.11",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   },
+                   {
+                    "name": "Only a little difficult",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "1.71",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   },
+                   {
+                    "name": "Refused",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "0.03",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   },
+                   {
+                    "name": "Somewhat difficult",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "0.77",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   },
+                   {
+                    "name": "Very difficult",
+                    "children": [
+                     {
+                      "name": "NHIS",
+                      "prevalence": "0.29",
+                      "sample_size": "59505"
+                     }
+                    ]
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Near-Distance Visual Function",
+            "children": [
+             {
+              "name": "Percentage of adults who even when wearing glasses or contact lenses find it difficult to read ordinary print in newspapers (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Can't do at all because of eyesight",
+                "prevalence": "0.44",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Do not do this activity for other reasons",
+                "prevalence": "0.59",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Don't Know",
+                "prevalence": "0.03",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Not at all difficult",
+                "prevalence": "82.36",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Only a little difficult",
+                "prevalence": "9.92",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Refused",
+                "prevalence": "0.02",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Somewhat difficult",
+                "prevalence": "4.7",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Very difficult",
+                "prevalence": "1.93",
+                "sample_size": "59505"
+               }
+              ]
+             },
+             {
+              "name": "Percentage of adults who when wearing glasses or contact lenses find it difficult to do work or hobbies that require them to see well up close (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Can't do at all because of eyesight",
+                "prevalence": "0.31",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Do not do this activity for other reasons",
+                "prevalence": "0.86",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Don't Know",
+                "prevalence": "0.04",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Not at all difficult",
+                "prevalence": "87.21",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Only a little difficult",
+                "prevalence": "6.94",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Refused",
+                "prevalence": "0.03",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Somewhat difficult",
+                "prevalence": "3.42",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Very difficult",
+                "prevalence": "1.19",
+                "sample_size": "59505"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Night Vision",
+            "children": [
+             {
+              "name": "\"Percentage of adults who even when wearing glasses or contact lenses find it difficult to go down steps",
+              "children": [
+               {
+                "name": " stairs",
+                "children": [
+                 {
+                  "name": "Can't do at all because of eyesight",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "0.26",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Do not do this activity for other reasons",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "1.29",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Don't Know",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "0.03",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Not at all difficult",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "89.84",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Only a little difficult",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "4.43",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Refused",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "0.03",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Somewhat difficult",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "2.77",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 },
+                 {
+                  "name": "Very difficult",
+                  "children": [
+                   {
+                    "name": "NHIS",
+                    "prevalence": "1.35",
+                    "sample_size": "59505"
+                   }
+                  ]
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "name": "Visual Field",
+            "children": [
+             {
+              "name": "Percentage of adults who even when wearing glasses or contact lenses find it difficult to notice objects off to the side (NHIS Adult Module) (NHIS)",
+              "children": [
+               {
+                "name": "Can't do at all because of eyesight",
+                "prevalence": "0.21",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Do not do this activity for other reasons",
+                "prevalence": "0.55",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Don't Know",
+                "prevalence": "0.08",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Not at all difficult",
+                "prevalence": "94.75",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Only a little difficult",
+                "prevalence": "2.33",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Refused",
+                "prevalence": "0.03",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Somewhat difficult",
+                "prevalence": "1.48",
+                "sample_size": "59505"
+               },
+               {
+                "name": "Very difficult",
+                "prevalence": "0.57",
+                "sample_size": "59505"
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
         ]
-
-
-    }
+       }
+      ]
+     }
     ]
-}
+   }
+   
