@@ -14,37 +14,37 @@
             "name": "Age Related Macular Degeneration",
             "children": [
              {
-              "name": "All Age-related macular degeneration (AMD)",
+              "name": "All Age-related macular degeneration (AMD) (Medicare 2017: 9.11%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Choroidal neovascularization",
+              "name": "Choroidal neovascularization (Medicare 2017: 0.93%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Dry-form age-related macular degeneration",
+              "name": "Dry-form age-related macular degeneration (Medicare 2017: 6.2%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Early stage age-related macular degeneration",
+              "name": "Early stage age-related macular degeneration (Medicare 2017: 2.2%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Geographic atrophy",
+              "name": "Geographic atrophy (Medicare 2017: 0.28%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Unspecified-age related macular degeneration",
+              "name": "Unspecified-age related macular degeneration (Medicare 2017: 1.09%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Wet-form age-related macular degeneration",
+              "name": "Wet-form age-related macular degeneration (Medicare 2017: 1.83%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -54,17 +54,17 @@
             "name": "Cancer and Neoplasms of the Eye",
             "children": [
              {
-              "name": "All Cancer and neoplasms of the eye diseases",
+              "name": "All Cancer and neoplasms of the eye diseases (Medicare 2017: 1.35%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Benign neoplasm",
+              "name": "Benign neoplasm (Medicare 2017: 1.29%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Malignant neoplasm",
+              "name": "Malignant neoplasm (Medicare 2017: 0.07%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -74,37 +74,37 @@
             "name": "Cataracts",
             "children": [
              {
-              "name": "Age-related cataract",
+              "name": "Age-related cataract (Medicare 2017: 21.59%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "All Cataracts",
+              "name": "All Cataracts (Medicare 2017: 32.95%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Aphakia and disorders of lens",
+              "name": "Aphakia and disorders of lens (Medicare 2017: 0.3%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Congenital Cataract",
+              "name": "Congenital Cataract (Medicare 2017: 0.07%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other or unspecified cataract",
+              "name": "Other or unspecified cataract (Medicare 2017: 2.16%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Posterior capsular opacity",
+              "name": "Posterior capsular opacity (Medicare 2017: 4.93%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Pseudophakia",
+              "name": "Pseudophakia (Medicare 2017: 10.82%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -114,22 +114,22 @@
             "name": "Cornea Disorders",
             "children": [
              {
-              "name": "All Cornea disorders",
+              "name": "All Cornea disorders (Medicare 2017: 2.88%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Endothelial dystrophy (Fuchs)",
+              "name": "Endothelial dystrophy (Fuchs) (Medicare 2017: 0.92%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Keratoconus",
+              "name": "Keratoconus (Medicare 2017: 0.1%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other corneal disorders",
+              "name": "Other corneal disorders (Medicare 2017: 2.03%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -139,32 +139,32 @@
             "name": "Diabetic Eye Diseases",
             "children": [
              {
-              "name": "All Diabetic eye diseases",
+              "name": "All Diabetic eye diseases (Medicare 2017: 3.04%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Diabetic macular edema",
+              "name": "Diabetic macular edema (Medicare 2017: 0.84%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Early/mild diabetic retinopathy",
+              "name": "Early/mild diabetic retinopathy (Medicare 2017: 1.8%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Moderate/Severe non-proliferative diabetic retinopathy",
+              "name": "Moderate/Severe non-proliferative diabetic retinopathy (Medicare 2017: 0.38%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other diabetes related eye disorders",
+              "name": "Other diabetes related eye disorders (Medicare 2017: 1.06%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Proliferative diabetic retinopathy",
+              "name": "Proliferative diabetic retinopathy (Medicare 2017: 0.46%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -174,37 +174,37 @@
             "name": "Diagnosed Blindness and Low Vision",
             "children": [
              {
-              "name": "All Blindness and low vision",
+              "name": "All Blindness and low vision (Medicare 2017: 0.81%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Blindness one eye, low vision other eye",
+              "name": "Blindness one eye, low vision other eye (Medicare 2017: 0.06%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Blindness, both eyes, including legal blindness",
+              "name": "Blindness, both eyes, including legal blindness (Medicare 2017: 0.23%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Low vision or blindness, one eye",
+              "name": "Low vision or blindness, one eye (Medicare 2017: 0.16%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Low vision, both eyes",
+              "name": "Low vision, both eyes (Medicare 2017: 0.08%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Unqualified impairment in one eye, or unspecified",
+              "name": "Unqualified impairment in one eye, or unspecified (Medicare 2017: 0.31%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Unqualified impairment, both eyes",
+              "name": "Unqualified impairment, both eyes (Medicare 2017: 0.03%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -214,17 +214,17 @@
             "name": "Disorders of Optic Nerve and Visual Pathways",
             "children": [
              {
-              "name": "All Disorders of optic nerve and visual pathways",
+              "name": "All Disorders of optic nerve and visual pathways (Medicare 2017: 1.34%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Disorders of the visual pathway and visual cortex",
+              "name": "Disorders of the visual pathway and visual cortex (Medicare 2017: 0.01%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Optic nerve disorders",
+              "name": "Optic nerve disorders (Medicare 2017: 1.33%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -234,32 +234,32 @@
             "name": "Disorders of Refraction and Accommodation",
             "children": [
              {
-              "name": "All Refraction and accommodation disorders",
+              "name": "All Refraction and accommodation disorders (Medicare 2017: 9.96%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Astigmatism",
+              "name": "Astigmatism (Medicare 2017: 4%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Hypermetropia",
+              "name": "Hypermetropia (Medicare 2017: 2.9%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Myopia",
+              "name": "Myopia (Medicare 2017: 2.4%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other refraction and accommodation disorders",
+              "name": "Other refraction and accommodation disorders (Medicare 2017: 0.79%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Presbyopia",
+              "name": "Presbyopia (Medicare 2017: 6.14%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -269,47 +269,47 @@
             "name": "Glaucoma",
             "children": [
              {
-              "name": "All Glaucoma",
+              "name": "All Glaucoma (Medicare 2017: 13.02%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Congenital glaucoma",
+              "name": "Congenital glaucoma (Medicare 2017: 0.01%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Glaucoma suspect",
+              "name": "Glaucoma suspect (Medicare 2017: 6.78%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Low-tension glaucoma",
+              "name": "Low-tension glaucoma (Medicare 2017: 0.44%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Open-angle glaucoma",
+              "name": "Open-angle glaucoma (Medicare 2017: 5.86%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other/unspecified glaucoma",
+              "name": "Other/unspecified glaucoma (Medicare 2017: 1%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Primary angle-closure glaucoma",
+              "name": "Primary angle-closure glaucoma (Medicare 2017: 1.04%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Secondary glaucoma",
+              "name": "Secondary glaucoma (Medicare 2017: 0.2%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Severe stage",
+              "name": "Severe stage (Medicare 2017: 1.47%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -319,42 +319,42 @@
             "name": "Infectious and Inflammatory Diseases",
             "children": [
              {
-              "name": "All Infectious and inflammatory diseases",
+              "name": "All Infectious and inflammatory diseases (Medicare 2017: 10.98%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Conjunctivitis",
+              "name": "Conjunctivitis (Medicare 2017: 5.25%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Endophthalmitis",
+              "name": "Endophthalmitis (Medicare 2017: 0.06%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Eyelid infection and inflammation",
+              "name": "Eyelid infection and inflammation (Medicare 2017: 3.87%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Infectious diseases",
+              "name": "Infectious diseases (Medicare 2017: 0.45%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Keratitis",
+              "name": "Keratitis (Medicare 2017: 2.67%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Lacrimal and orbit inflammation",
+              "name": "Lacrimal and orbit inflammation (Medicare 2017: 0.12%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other/unspecified infectious and inflammatory diseases",
+              "name": "Other/unspecified infectious and inflammatory diseases (Medicare 2017: 0.53%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -364,22 +364,22 @@
             "name": "Injury, Burns and Surgical Complications of the Eye",
             "children": [
              {
-              "name": "All Injury, burns and surgical complications of the eye",
+              "name": "All Injury, burns and surgical complications of the eye (Medicare 2017: 1.64%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Ocular burns",
+              "name": "Ocular burns (Medicare 2017: 0.01%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Ocular injury",
+              "name": "Ocular injury (Medicare 2017: 1.3%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Surgical complication of the eye",
+              "name": "Surgical complication of the eye (Medicare 2017: 0.37%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -389,37 +389,37 @@
             "name": "Orbital and External Disease",
             "children": [
              {
-              "name": "All Orbital and external disease",
+              "name": "All Orbital and external disease (Medicare 2017: 12.58%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Congenital anomalies",
+              "name": "Congenital anomalies (Medicare 2017: 0.11%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Disorders of the globe",
+              "name": "Disorders of the globe (Medicare 2017: 0.09%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Dry eye syndrome",
+              "name": "Dry eye syndrome (Medicare 2017: 9.03%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Eyelid disorders",
+              "name": "Eyelid disorders (Medicare 2017: 4.19%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Lacrimal diseases",
+              "name": "Lacrimal diseases (Medicare 2017: 0.52%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other/unspecified orbital and external disease",
+              "name": "Other/unspecified orbital and external disease (Medicare 2017: 0.12%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -429,7 +429,7 @@
             "name": "Other Eye Disorders",
             "children": [
              {
-              "name": "Other eye disorders",
+              "name": "Other eye disorders (Medicare 2017: 11.12%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -439,67 +439,67 @@
             "name": "Other Retinal Disorders",
             "children": [
              {
-              "name": "All Other retinal disorders",
+              "name": "All Other retinal disorders (Medicare 2017: 8.76%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Branch retinal artery occlusion",
+              "name": "Branch retinal artery occlusion (Medicare 2017: 0.14%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Branch retinal vein occlusion",
+              "name": "Branch retinal vein occlusion (Medicare 2017: 0.48%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Central retinal arterial occlusion",
+              "name": "Central retinal arterial occlusion (Medicare 2017: 0.08%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Central retinal vein occlusion",
+              "name": "Central retinal vein occlusion (Medicare 2017: 0.3%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Hereditary chorioretinal dystrophy",
+              "name": "Hereditary chorioretinal dystrophy (Medicare 2017: 0.29%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Macular edema (Cystoid or non-diabetic)",
+              "name": "Macular edema (Cystoid or non-diabetic) (Medicare 2017: 0.49%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Myopic degeneration",
+              "name": "Myopic degeneration (Medicare 2017: 0.17%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Non-Occlusive retinal vascular disease",
+              "name": "Non-Occlusive retinal vascular disease (Medicare 2017: 1.96%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Occlusive retinal vascular disease",
+              "name": "Occlusive retinal vascular disease (Medicare 2017: 0.06%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other/unspecified other retinal disorders",
+              "name": "Other/unspecified other retinal disorders (Medicare 2017: 6.38%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Other/unspecified visual disturbances",
+              "name": "Other/unspecified visual disturbances (Medicare 2017: 2.87%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Retinopathy of prematurity",
+              "name": "Retinopathy of prematurity (Medicare 2017: 0.01%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -509,22 +509,22 @@
             "name": "Other Visual Disturbances",
             "children": [
              {
-              "name": "All Other visual disturbances",
+              "name": "All Other visual disturbances (Medicare 2017: 3.52%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Color blindness",
+              "name": "Color blindness (Medicare 2017: 0.02%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Night blindness",
+              "name": "Night blindness (Medicare 2017: 0.04%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Visual field defect",
+              "name": "Visual field defect (Medicare 2017: 0.83%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -534,7 +534,7 @@
             "name": "Retinal Detachment and Defects",
             "children": [
              {
-              "name": "Retinal detachment and defects",
+              "name": "Retinal detachment and defects (Medicare 2017: 0.95%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -544,17 +544,17 @@
             "name": "Strabismus and Amblyopia",
             "children": [
              {
-              "name": "All Strabismus and amblyopia",
+              "name": "All Strabismus and amblyopia (Medicare 2017: 1.25%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Amblyopia",
+              "name": "Amblyopia (Medicare 2017: 0.4%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Strabismus",
+              "name": "Strabismus (Medicare 2017: 0.9%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -569,17 +569,17 @@
             "name": "Eye Exams",
             "children": [
              {
-              "name": "By an ophthalmologist or other physician",
+              "name": "By an ophthalmologist or other physician (Medicare 2017: 30.24%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "By an optometrist or optician",
+              "name": "By an optometrist or optician (Medicare 2017: 19.25%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "By any provider type",
+              "name": "By any provider type (Medicare 2017: 45%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -589,37 +589,37 @@
             "name": "Imaging or diagnostic test",
             "children": [
              {
-              "name": "Any diagnostic eye test",
+              "name": "Any diagnostic eye test (Medicare 2017: 19.73%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Flourescein angiography",
+              "name": "Flourescein angiography (Medicare 2017: 1.37%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Gonioscopy",
+              "name": "Gonioscopy (Medicare 2017: 2.38%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Optical coherence tomography",
+              "name": "Optical coherence tomography (Medicare 2017: 14.88%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Stereo fundus exam",
+              "name": "Stereo fundus exam (Medicare 2017: 8.19%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Tonometry\u00a0test",
+              "name": "Tonometry\u00a0test (Medicare 2017: 0.07%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Visual field testing",
+              "name": "Visual field testing (Medicare 2017: 0%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -629,22 +629,22 @@
             "name": "Screening",
             "children": [
              {
-              "name": "Any vision screening",
+              "name": "Any vision screening (Medicare 2017: 0.17%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Diabetic Retinopathy Telemedicine Screening",
+              "name": "Diabetic Retinopathy Telemedicine Screening (Medicare 2017: 0%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Glaucoma screening",
+              "name": "Glaucoma screening (Medicare 2017: 0.03%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Vision screening",
+              "name": "Vision screening (Medicare 2017: 0.14%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              }
@@ -654,22 +654,22 @@
             "name": "Vision Correction",
             "children": [
              {
-              "name": "Any vision correction",
+              "name": "Any vision correction (Medicare 2017: 0.21%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Contact lens or fitting",
+              "name": "Contact lens or fitting (Medicare 2017: 0.19%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Eyeglasses",
+              "name": "Eyeglasses (Medicare 2017: 0.02%, 30,423,400)",
               "prevalence": "Claims",
               "sample_size": "30423400"
              },
              {
-              "name": "Yes",
+              "name": "Yes (Medicare 2017: 61%, 33,419)",
               "prevalence": "NHIS",
               "sample_size": "33419"
              }
@@ -689,37 +689,37 @@
             "name": "Measured Visual Acuity",
             "children": [
              {
-              "name": "Any vision loss",
+              "name": "Any vision loss (IRIS 2017: 42.75%, )",
               "prevalence": "IRIS",
               "sample_size": ""
              },
              {
-              "name": "Missing acuity",
+              "name": "Missing acuity (IRIS 2017: 14%, )",
               "prevalence": "IRIS",
               "sample_size": ""
              },
              {
-              "name": "Monocular vision loss",
+              "name": "Monocular vision loss (IRIS 2017: 2.03%, )",
               "prevalence": "IRIS",
               "sample_size": ""
              },
              {
-              "name": "Normal vision",
+              "name": "Normal vision (IRIS 2017: 45.28%, )",
               "prevalence": "IRIS",
               "sample_size": ""
              },
              {
-              "name": "US-defined blindness",
+              "name": "US-defined blindness (IRIS 2017: 5.47%, )",
               "prevalence": "IRIS",
               "sample_size": ""
              },
              {
-              "name": "Visual impairment",
+              "name": "Visual impairment (IRIS 2017: 35.25%, )",
               "prevalence": "IRIS",
               "sample_size": ""
              },
              {
-              "name": "WHO-defined blindness",
+              "name": "WHO-defined blindness (IRIS 2017: 2.25%, )",
               "prevalence": "IRIS",
               "sample_size": ""
              }
@@ -739,7 +739,7 @@
             "name": "Exam-based age related macular degeneration",
             "children": [
              {
-              "name": "Percentage of people with age-related macular degeneration, based on examination (NHANES)",
+              "name": "Percentage of people with age-related macular degeneration, based on examination  (NHANES 6.6%, 5,604)",
               "prevalence": "NHANES",
               "sample_size": "5604"
              }
@@ -749,7 +749,7 @@
             "name": "Exam-based diabetic retinopathy",
             "children": [
              {
-              "name": "Percentage of people with diabetic retinopathy, based on examination (NHANES)",
+              "name": "Percentage of people with diabetic retinopathy, based on examination  (NHANES 9.7%, 5,704)",
               "prevalence": "NHANES",
               "sample_size": "5704"
              }
@@ -759,7 +759,7 @@
             "name": "Exam-based glaucoma",
             "children": [
              {
-              "name": "Percentage of people with glaucoma, based on examination (NHANES)",
+              "name": "Percentage of people with glaucoma, based on examination  (NHANES 2.1%, 5,590)",
               "prevalence": "NHANES",
               "sample_size": "5590"
              }
@@ -769,7 +769,7 @@
             "name": "Self-Report Age Related Macular Degeneration",
             "children": [
              {
-              "name": "Percentage of adults ever told by a doctor or other health professional they had macular degeneration (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults ever told by a doctor or other health professional they had macular degeneration (NHIS Adult Module)  (NHIS 1.8%, 59,654)",
               "prevalence": "NHIS",
               "sample_size": "59654"
              }
@@ -779,7 +779,7 @@
             "name": "Self-report age related macular degeneration",
             "children": [
              {
-              "name": "Percentage of people who were ever told by an eye doctor they have age-related macular degeneration (NHANES)",
+              "name": "Percentage of people who were ever told by an eye doctor they have age-related macular degeneration  (NHANES 3.4%, 6,734)",
               "prevalence": "NHANES",
               "sample_size": "6734"
              }
@@ -789,7 +789,7 @@
             "name": "Self-Report Cataract",
             "children": [
              {
-              "name": "Percentage of adults ever told by a doctor or other health professional they had cataracts (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults ever told by a doctor or other health professional they had cataracts (NHIS Adult Module)  (NHIS 13.52%, 59,702)",
               "prevalence": "NHIS",
               "sample_size": "59702"
              }
@@ -799,7 +799,7 @@
             "name": "Self-Report Diabetic Retinopathy",
             "children": [
              {
-              "name": "Percentage of adults ever told by a doctor or other health professional they had diabetic retinopathy (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults ever told by a doctor or other health professional they had diabetic retinopathy (NHIS Adult Module)  (NHIS 0.88%, 59,680)",
               "prevalence": "NHIS",
               "sample_size": "59680"
              }
@@ -809,7 +809,7 @@
             "name": "Self-report diabetic retinopathy",
             "children": [
              {
-              "name": "Percentage of people who were ever told by an eye doctor their diabetes affected their eyes (NHANES)",
+              "name": "Percentage of people who were ever told by an eye doctor their diabetes affected their eyes  (NHANES 22.9%, 1,210)",
               "prevalence": "NHANES",
               "sample_size": "1210"
              }
@@ -819,7 +819,7 @@
             "name": "Self-Report Glaucoma",
             "children": [
              {
-              "name": "Percentage of adults ever told by a doctor or other health professional they had glaucoma (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults ever told by a doctor or other health professional they had glaucoma (NHIS Adult Module)  (NHIS 2.62%, 59,683)",
               "prevalence": "NHIS",
               "sample_size": "59683"
              }
@@ -829,7 +829,7 @@
             "name": "Self-report glaucoma",
             "children": [
              {
-              "name": "Percentage of people ever told by an eye doctor they have glaucoma (NHANES)",
+              "name": "Percentage of people ever told by an eye doctor they have glaucoma  (NHANES 5.1%, 6,760)",
               "prevalence": "NHANES",
               "sample_size": "6760"
              }
@@ -844,12 +844,12 @@
             "name": "Cataract Surgery",
             "children": [
              {
-              "name": "Percentage of people who had a cataract operation (NHANES)",
+              "name": "Percentage of people who had a cataract operation  (NHANES 7%, 10,472)",
               "prevalence": "NHANES",
               "sample_size": "10472"
              },
              {
-              "name": "Percentage of people with diagnosed cataract who had a treatment claim (NHIS)",
+              "name": "Percentage of people with diagnosed cataract who had a treatment claim  (NHIS 7.95%, 59,698)",
               "prevalence": "NHIS",
               "sample_size": "59698"
              }
@@ -859,7 +859,7 @@
             "name": "Eye care visit in past year",
             "children": [
              {
-              "name": "Percentage of adults who in the past 12 months have seen or talked to an optometrist, optician, or eye doctor (someone who prescribes eyeglasses)  about their own health (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults who in the past 12 months have seen or talked to an optometrist, optician, or eye doctor (someone who prescribes eyeglasses)  about their own health (NHIS Adult Module)  (NHIS 42.43%, 59,093)",
               "prevalence": "NHIS",
               "sample_size": "59093"
              }
@@ -869,37 +869,37 @@
             "name": "Wear Eye Protection",
             "children": [
              {
-              "name": "Percentage of adults who participate in sports, hobbies, or other activities that can cause eye injury outside of work (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults who participate in sports, hobbies, or other activities that can cause eye injury outside of work (NHIS Adult Module)  (NHIS 24.73%, 59,750)",
               "prevalence": "NHIS",
               "sample_size": "59750"
              },
              {
-              "name": "Always",
+              "name": "Always (NHIS 30.11%, 14,842)",
               "prevalence": "NHIS",
               "sample_size": "14842"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.02%, 14,842)",
               "prevalence": "NHIS",
               "sample_size": "14842"
              },
              {
-              "name": "Most of the time",
+              "name": "Most of the time (NHIS 15.28%, 14,842)",
               "prevalence": "NHIS",
               "sample_size": "14842"
              },
              {
-              "name": "None of the time",
+              "name": "None of the time (NHIS 35.22%, 14,842)",
               "prevalence": "NHIS",
               "sample_size": "14842"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0%, 14,842)",
               "prevalence": "NHIS",
               "sample_size": "14842"
              },
              {
-              "name": "Some of the time",
+              "name": "Some of the time (NHIS 19.37%, 14,842)",
               "prevalence": "NHIS",
               "sample_size": "14842"
              }
@@ -909,7 +909,7 @@
             "name": "Children unable to access necessary eye care",
             "children": [
              {
-              "name": "Yes",
+              "name": "Yes (NSCH 24.46%, 1,639)",
               "prevalence": "NSCH",
               "sample_size": "1639"
              }
@@ -919,7 +919,7 @@
             "name": "Child Vision Screening",
             "children": [
              {
-              "name": "Yes",
+              "name": "Yes (NSCH 69.69%, 71,586)",
               "prevalence": "NSCH",
               "sample_size": "71586"
              }
@@ -929,7 +929,7 @@
             "name": "Wear Vision Correction",
             "children": [
              {
-              "name": "Yes",
+              "name": "Yes (NHIS 63.98%, 59,496)",
               "prevalence": "NHIS",
               "sample_size": "59496"
              }
@@ -944,27 +944,27 @@
             "name": "Best-corrected visual acuity (NHANES)",
             "children": [
              {
-              "name": "Any vision loss",
+              "name": "Any vision loss (NHANES 1.7%, 32,034)",
               "prevalence": "NHANES",
               "sample_size": "32034"
              },
              {
-              "name": "Monocular vision loss",
+              "name": "Monocular vision loss (NHANES 5.5%, 35,090)",
               "prevalence": "NHANES",
               "sample_size": "35090"
              },
              {
-              "name": "Normal vision",
+              "name": "Normal vision (NHANES 98.3%, 32,034)",
               "prevalence": "NHANES",
               "sample_size": "32034"
              },
              {
-              "name": "US-defined blindness",
+              "name": "US-defined blindness (NHANES 0.3%, 32,034)",
               "prevalence": "NHANES",
               "sample_size": "32034"
              },
              {
-              "name": "Visual impairment",
+              "name": "Visual impairment (NHANES 1.5%, 32,034)",
               "prevalence": "NHANES",
               "sample_size": "32034"
              }
@@ -974,27 +974,27 @@
             "name": "Presenting visual acuity (NHANES)",
             "children": [
              {
-              "name": "Presenting with any vision loss",
+              "name": "Presenting with any vision loss (NHANES 9.8%, 32,642)",
               "prevalence": "NHANES",
               "sample_size": "32642"
              },
              {
-              "name": "Presenting with monocular vision loss",
+              "name": "Presenting with monocular vision loss (NHANES 13.9%, 35,090)",
               "prevalence": "NHANES",
               "sample_size": "35090"
              },
              {
-              "name": "Presenting with normal vision",
+              "name": "Presenting with normal vision (NHANES 90.2%, 32,642)",
               "prevalence": "NHANES",
               "sample_size": "32642"
              },
              {
-              "name": "Presenting with US-defined blindness",
+              "name": "Presenting with US-defined blindness (NHANES 1%, 32,642)",
               "prevalence": "NHANES",
               "sample_size": "32642"
              },
              {
-              "name": "Presenting with visual impairment",
+              "name": "Presenting with visual impairment (NHANES 8.8%, 32,642)",
               "prevalence": "NHANES",
               "sample_size": "32642"
              }
@@ -1004,7 +1004,7 @@
             "name": "Uncorrected refractive error (URE) (NHANES)",
             "children": [
              {
-              "name": "Uncorrected refractive error (URE)",
+              "name": "Uncorrected refractive error (URE) (NHANES 5.3%, 31,350)",
               "prevalence": "NHANES",
               "sample_size": "31350"
              }
@@ -1019,62 +1019,62 @@
             "name": "Blind or Difficulty Seeing",
             "children": [
              {
-              "name": "Percentage of adults who are blind or unable to see at all (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults who are blind or unable to see at all  (NHIS 0.39%, 59,751)",
               "prevalence": "NHIS",
               "sample_size": "59751"
              },
              {
-              "name": "Percentage of adults who have trouble seeing even when wearing glasses or contact lenses (NHIS Adult Module) (NHIS)",
+              "name": "Percentage of adults who have trouble seeing even when wearing glasses or contact lenses (NHIS 9.2%, 70,332)",
               "prevalence": "NHIS",
               "sample_size": "70332"
              },
              {
-              "name": "Percentage of children who are blind or have problems with seeing even when wearing glasses (NSCH)",
+              "name": "Percentage of children who are blind or have problems with seeing even when wearing glasses (NSCH 1.57%, 71,476)",
               "prevalence": "NSCH",
               "sample_size": "71476"
              },
              {
-              "name": "Percentage of people who are blind or have serious difficulty seeing even when wearing glasses (ACS)",
+              "name": "Percentage of people who are blind or have serious difficulty seeing even when wearing glasses (ACS 2.45%, 3,190,040)",
               "prevalence": "ACS",
               "sample_size": "3190040"
              },
              {
-              "name": "Percentage of people who are blind or have serious difficulty seeing even when wearing glasses (BRFSS)",
+              "name": "Percentage of people who are blind or have serious difficulty seeing even when wearing glasses  (BRFSS 5.27%, 13,191,000)",
               "prevalence": "BRFSS",
               "sample_size": "13191000"
              },
              {
-              "name": "A lot of difficulty",
+              "name": "A lot of difficulty (NHIS 1.5%, 35,242)",
               "prevalence": "NHIS",
               "sample_size": "35242"
              },
              {
-              "name": "Cannot do at all/Unable to do",
+              "name": "Cannot do at all/Unable to do (NHIS 0.1%, 35,242)",
               "prevalence": "NHIS",
               "sample_size": "35242"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.1%, 35,242)",
               "prevalence": "NHIS",
               "sample_size": "35242"
              },
              {
-              "name": "No difficulty",
+              "name": "No difficulty (NHIS 80%, 35,242)",
               "prevalence": "NHIS",
               "sample_size": "35242"
              },
              {
-              "name": "Not ascertained",
+              "name": "Not ascertained (NHIS 5.3%, 35,242)",
               "prevalence": "NHIS",
               "sample_size": "35242"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0.3%, 35,242)",
               "prevalence": "NHIS",
               "sample_size": "35242"
              },
              {
-              "name": "Some difficulty",
+              "name": "Some difficulty (NHIS 12.8%, 35,242)",
               "prevalence": "NHIS",
               "sample_size": "35242"
              }
@@ -1084,7 +1084,7 @@
             "name": "Blind or difficulty seeing",
             "children": [
              {
-              "name": "Percentage of people blind in both eyes (NHANES)",
+              "name": "Percentage of people blind in both eyes  (NHANES %, 13,897)",
               "prevalence": "NHANES",
               "sample_size": "13897"
              }
@@ -1094,42 +1094,42 @@
             "name": "Difficulty Finding Objects",
             "children": [
              {
-              "name": "Can't do at all because of eyesight",
+              "name": "Can't do at all because of eyesight (NHIS 0.14%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Do not do this activity for other reasons",
+              "name": "Do not do this activity for other reasons (NHIS 0.48%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Not at all difficult",
+              "name": "Not at all difficult (NHIS 94.38%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Only a little difficult",
+              "name": "Only a little difficult (NHIS 2.83%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Somewhat difficult",
+              "name": "Somewhat difficult (NHIS 1.53%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Very difficult",
+              "name": "Very difficult (NHIS 0.58%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              }
@@ -1139,42 +1139,42 @@
             "name": "Difficulty Driving in Daytime",
             "children": [
              {
-              "name": "Can't do at all because of eyesight",
+              "name": "Can't do at all because of eyesight (NHIS 0.38%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Do not do this activity for other reasons",
+              "name": "Do not do this activity for other reasons (NHIS 5.7%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.02%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Not at all difficult",
+              "name": "Not at all difficult (NHIS 91.11%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Only a little difficult",
+              "name": "Only a little difficult (NHIS 1.71%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Somewhat difficult",
+              "name": "Somewhat difficult (NHIS 0.77%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Very difficult",
+              "name": "Very difficult (NHIS 0.29%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              }
@@ -1184,42 +1184,42 @@
             "name": "Difficulty Reading Newsprint",
             "children": [
              {
-              "name": "Can't do at all because of eyesight",
+              "name": "Can't do at all because of eyesight (NHIS 0.44%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Do not do this activity for other reasons",
+              "name": "Do not do this activity for other reasons (NHIS 0.59%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Not at all difficult",
+              "name": "Not at all difficult (NHIS 82.36%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Only a little difficult",
+              "name": "Only a little difficult (NHIS 9.92%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0.02%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Somewhat difficult",
+              "name": "Somewhat difficult (NHIS 4.7%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Very difficult",
+              "name": "Very difficult (NHIS 1.93%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              }
@@ -1229,42 +1229,42 @@
             "name": "Difficulty with Upclose Work",
             "children": [
              {
-              "name": "Can't do at all because of eyesight",
+              "name": "Can't do at all because of eyesight (NHIS 0.31%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Do not do this activity for other reasons",
+              "name": "Do not do this activity for other reasons (NHIS 0.86%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.04%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Not at all difficult",
+              "name": "Not at all difficult (NHIS 87.21%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Only a little difficult",
+              "name": "Only a little difficult (NHIS 6.94%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Somewhat difficult",
+              "name": "Somewhat difficult (NHIS 3.42%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Very difficult",
+              "name": "Very difficult (NHIS 1.19%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              }
@@ -1274,42 +1274,42 @@
             "name": "Difficulty going down stairs at night",
             "children": [
              {
-              "name": "Can't do at all because of eyesight",
+              "name": "Can't do at all because of eyesight (NHIS 0.26%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Do not do this activity for other reasons",
+              "name": "Do not do this activity for other reasons (NHIS 1.29%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Not at all difficult",
+              "name": "Not at all difficult (NHIS 89.84%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Only a little difficult",
+              "name": "Only a little difficult (NHIS 4.43%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Somewhat difficult",
+              "name": "Somewhat difficult (NHIS 2.77%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Very difficult",
+              "name": "Very difficult (NHIS 1.35%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              }
@@ -1319,42 +1319,42 @@
             "name": "Difficulty seeing objects to the side",
             "children": [
              {
-              "name": "Can't do at all because of eyesight",
+              "name": "Can't do at all because of eyesight (NHIS 0.21%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Do not do this activity for other reasons",
+              "name": "Do not do this activity for other reasons (NHIS 0.55%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Don't Know",
+              "name": "Don't Know (NHIS 0.08%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Not at all difficult",
+              "name": "Not at all difficult (NHIS 94.75%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Only a little difficult",
+              "name": "Only a little difficult (NHIS 2.33%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Refused",
+              "name": "Refused (NHIS 0.03%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Somewhat difficult",
+              "name": "Somewhat difficult (NHIS 1.48%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              },
              {
-              "name": "Very difficult",
+              "name": "Very difficult (NHIS 0.57%, 59,505)",
               "prevalence": "NHIS",
               "sample_size": "59505"
              }
